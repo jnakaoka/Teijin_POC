@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\poc-teijin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\poc-teijin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\repository\\sensoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\repository\\sensoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\controllers\\sensorcomunicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\controllers\\sensorcomunicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\repository\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\repository\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\repository\\modelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\repository\\modelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\repository\\sensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\repository\\sensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\startup\\appjsonserializercontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\startup\\appjsonserializercontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\models\\dadosjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\models\\dadosjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\startup\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\poc-teijin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\poc-teijin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|c:\\users\\johan\\source\\repos\\poc-teijin\\poc-teijin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCC75F9A-3F6A-4BEA-91B6-8DD251BACA88}|POC-Teijin\\POC-Teijin.csproj|solutionrelative:poc-teijin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelConfig.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\ModelConfig.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Repository\\ModelConfig.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\ModelConfig.cs",
+              "RelativeToolTip": "POC-Teijin\\Repository\\ModelConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:54:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\SensoresRepository.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Repository\\SensoresRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\SensoresRepository.cs",
+              "RelativeToolTip": "POC-Teijin\\Repository\\SensoresRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:09:03.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sensores.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\Sensores.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Repository\\Sensores.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\Sensores.cs",
+              "RelativeToolTip": "POC-Teijin\\Repository\\Sensores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:05:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Repository\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Repository\\MyDbContext.cs",
+              "RelativeToolTip": "POC-Teijin\\Repository\\MyDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:04:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\appsettings.json",
+              "RelativeDocumentMoniker": "POC-Teijin\\appsettings.json",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\appsettings.json",
+              "RelativeToolTip": "POC-Teijin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T13:24:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SensorComunicationController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Controllers\\SensorComunicationController.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Controllers\\SensorComunicationController.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Controllers\\SensorComunicationController.cs",
+              "RelativeToolTip": "POC-Teijin\\Controllers\\SensorComunicationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:20:35.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POC-Teijin.csproj",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.csproj",
+              "RelativeDocumentMoniker": "POC-Teijin\\POC-Teijin.csproj",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.csproj*",
+              "RelativeToolTip": "POC-Teijin\\POC-Teijin.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T13:17:16.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Program.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Program.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Program.cs",
+              "RelativeToolTip": "POC-Teijin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:21:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DadosJson.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Models\\DadosJson.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Models\\DadosJson.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Models\\DadosJson.cs",
+              "RelativeToolTip": "POC-Teijin\\Models\\DadosJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:42:26.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Startup\\Startup.cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Startup\\Startup.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Startup\\Startup.cs",
+              "RelativeToolTip": "POC-Teijin\\Startup\\Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:11:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppJsonSerializerContext .cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Startup\\AppJsonSerializerContext .cs",
+              "RelativeDocumentMoniker": "POC-Teijin\\Startup\\AppJsonSerializerContext .cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Startup\\AppJsonSerializerContext .cs",
+              "RelativeToolTip": "POC-Teijin\\Startup\\AppJsonSerializerContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:17:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "POC-Teijin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "POC-Teijin\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T13:24:30.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "POC-Teijin.http",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.http",
+              "RelativeDocumentMoniker": "POC-Teijin\\POC-Teijin.http",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.http",
+              "RelativeToolTip": "POC-Teijin\\POC-Teijin.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-17T19:50:30.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
