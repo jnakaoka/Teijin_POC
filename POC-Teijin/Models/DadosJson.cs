@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace POC_Teijin.Models
+namespace api_1.Models
 {
     [JsonSerializable(typeof(DadosJson))]
     public class DadosJson
