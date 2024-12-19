@@ -1039,9 +1039,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.csproj",
-      "projectName": "POC-Teijin",
-      "projectPath": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin_failed.csproj",
+      "projectName": "POC-Teijin_failed",
+      "projectPath": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin_failed.csproj",
       "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\obj\\",
       "projectStyle": "PackageReference",

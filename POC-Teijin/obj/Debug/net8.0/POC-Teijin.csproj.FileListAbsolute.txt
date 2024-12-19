@@ -47,3 +47,4 @@ C:\Users\johan\source\repos\POC-Teijin\POC-Teijin\obj\Debug\net8.0\refint\POC-Te
 C:\Users\johan\source\repos\POC-Teijin\POC-Teijin\obj\Debug\net8.0\POC-Teijin.pdb
 C:\Users\johan\source\repos\POC-Teijin\POC-Teijin\obj\Debug\net8.0\POC-Teijin.genruntimeconfig.cache
 C:\Users\johan\source\repos\POC-Teijin\POC-Teijin\obj\Debug\net8.0\ref\POC-Teijin.dll
+C:\Users\johan\source\repos\POC-Teijin\POC-Teijin\obj\Debug\net8.0\POC-Teijin.sourcelink.json

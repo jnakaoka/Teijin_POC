@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "api_1.Controllers.SensoresController",
+    "Method": "Get",
+    "RelativePath": "Sensores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[POC_Teijin.Repository.Sensores, POC-Teijin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "get-metricas"
+  },
+  {
+    "ContainingType": "api_1.Controllers.SensoresController",
+    "Method": "ReceiveSensorData",
+    "RelativePath": "Sensores/recebe-dados",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dados",
+        "Type": "api_1.Models.DadosJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

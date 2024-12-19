@@ -1,6 +1,10 @@
 using Microsoft.EntityFrameworkCore;
+using POC_Teijin.Models;
 using POC_Teijin.Repository;
+using POC_Teijin.Startup;
+using System.Text.Json;
 using System.Text.Json.Serialization;
+using System.Text.Json.Serialization.Metadata;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
@@ -9,10 +13,13 @@ builder.Services.AddDbContext<MyDbContext>(options =>
 
 
 builder.Services.AddControllers();
+var appJsonSerializerContext = new AppJsonSerializerContext();
 builder.Services.ConfigureHttpJsonOptions(options =>
 {
-    options.SerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonSerializerContext.Default);
+    options.SerializerOptions.TypeInfoResolverChain.Insert(0, appJsonSerializerContext);
 });
+
+//builder.Services.AddControllers().AddJsonOptions(opt => { opt.JsonSerializerOptions.TypeInfoResolver = new DefaultJsonTypeInfoResolver { Modifiers = { resolver => DefaultJsonTypeInfoResolver(typeof(DadosJson)) } }; });
 
 var app = builder.Build();
 app.MapControllerRoute(

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JHIhqZbS9Vo=",
+  "dgSpecHash": "cuEkERBJjQk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin.csproj",
+  "projectFilePath": "C:\\Users\\johan\\source\\repos\\POC-Teijin\\POC-Teijin\\POC-Teijin_failed.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johan\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\johan\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",

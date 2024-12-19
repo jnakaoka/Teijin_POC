@@ -5,11 +5,11 @@ namespace POC_Teijin.Models
     [JsonSerializable(typeof(DadosJson))]
     public class DadosJson
     {
-        [JsonPropertyName("id")]
+        //[JsonPropertyName("id")]
         public int Id { get; set; }
-        [JsonPropertyName("nome")]
+        //[JsonPropertyName("nome")]
         public string Nome { get; set; }
-        [JsonPropertyName("estado")]
+        //[JsonPropertyName("estado")]
         public int Estado { get; set; }
     }
 }

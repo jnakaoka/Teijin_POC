@@ -6,7 +6,7 @@ namespace POC_Teijin.Repository
 
     public class MyDbContext : DbContext
     {
-        public DbSet<Sensores> Sensores { get; set; }
+        public DbSet<Sensores_old> Sensores { get; set; }
 
         public MyDbContext(DbContextOptions<MyDbContext> options) : base(options)
         {

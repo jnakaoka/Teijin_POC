@@ -4,23 +4,23 @@ using Dapper;
 
 namespace POC_Teijin.Repository
 {
-    public class SensoresRepository
+    public class SensoresRepository_old
     {
         private readonly string _connectionString;
 
-        public SensoresRepository(string connectionString)
+        public SensoresRepository_old(string connectionString)
         {
             _connectionString = connectionString;
         }
 
-        public async Task<IEnumerable<Sensores>> GetDataAsync()
+        public async Task<IEnumerable<Sensores_old>> GetDataAsync()
         {
             try
             {
                 using (var connection = new SqlConnection(_connectionString))
                 {
                     await connection.OpenAsync();
-                    return await connection.QueryAsync<Sensores>("SELECT * FROM public.\"Sensores\"");
+                    return await connection.QueryAsync<Sensores_old>("SELECT * FROM public.\"Sensores\"");
                 }
             }
             catch (Exception ex)
@@ -30,14 +30,14 @@ namespace POC_Teijin.Repository
             }
         }
 
-        public async Task<IEnumerable<Sensores>> SaveDataAsync(Sensores sensorData)
+        public async Task<IEnumerable<Sensores_old>> SaveDataAsync(Sensores_old sensorData)
         {
             try
             {
                 using (var connection = new SqlConnection(_connectionString))
                 {
                     await connection.OpenAsync();
-                    return await connection.QueryAsync<Sensores>("INSERT INTO public.\"Sensores\" (Id, Nome) VALUES (1, 'John Doe')");
+                    return await connection.QueryAsync<Sensores_old>("INSERT INTO public.\"Sensores\" (Id, Nome) VALUES (1, 'John Doe')");
                 }
             }
             catch (Exception ex)
