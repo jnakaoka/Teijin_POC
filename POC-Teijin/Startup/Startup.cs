@@ -1,24 +1,17 @@
-﻿using Microsoft.Extensions.Configuration;
-using System.Data.SqlClient;
+﻿using System.Text.Json.Serialization;
 
-namespace api_1.Startup
+namespace POC_Teijin.Startup
 {
     public class Startup
     {
-
-        private readonly IConfiguration _configuration;
-
-        public Startup(IConfiguration configuration)
-        {
-            _configuration = configuration;
-        }
-
         public void ConfigureServices(IServiceCollection services)
         {
-            // other configurations...
-
-            string connectionString = _configuration.GetConnectionString("TeijinDB");
-            services.AddTransient<SqlConnection>(provider => new SqlConnection(connectionString));
+            services.AddControllers()
+                .AddJsonOptions(options =>
+                {
+                    options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+                    options.JsonSerializerOptions.TypeInfoResolver = new AppJsonSerializerContext(options.JsonSerializerOptions);
+                });
         }
     }
 }
