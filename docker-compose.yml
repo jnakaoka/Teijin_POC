@@ -1,0 +1,44 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__TeijinDB=Server=sqlserver;Database=Teijin_POC;User=sa;Password=YourPassword123!
+    depends_on:
+      - sqlserver
+
+  sqlserver:
+    image: mcr.microsoft.com/azure-sql-edge
+    container_name: sqlserver
+    platform: linux/arm64
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "YourPassword123!"
+      MSSQL_PID: "Developer"
+    deploy:
+      resources:
+        limits:
+          memory: 4g   
+
+  sqlcmd:
+    image: mcr.microsoft.com/mssql-tools
+    container_name: sqlcmd
+    depends_on:
+      - sqlserver
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        echo "Aguardando o SQL Server inicializar..." &&
+        sleep 30 &&
+        /opt/mssql-tools/bin/sqlcmd -S sqlserver -U SA -P YourPassword123! -d master -i /tmp/script-Teijin.sql &&
+        echo "Script SQL executado com sucesso."
+    volumes:
+      - ./.docker/mssql/script-Teijin.sql:/tmp/script-Teijin.sql
+    
